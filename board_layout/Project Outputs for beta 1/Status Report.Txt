@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [beta 1.PRJPCB]
+   Generated File[beta1.TXT]
+   Generated File[beta1.DRL]
+   Generated File[beta1.LDP]
+   Generated File[beta1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:15:01 On 26.07.2005
