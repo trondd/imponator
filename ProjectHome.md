@@ -1,0 +1,1 @@
+Imponatoren bygges av deltakerene på Omega Verksteds byggekurs, som gjennomføres hver høst for nye og gamle studenter ved NTNU i Trondheim.
